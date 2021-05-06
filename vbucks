@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<head>
+     <title>Free Vbucks</title>
+<style>
+   body{
+    text-align:center;
+
+     background:url("https://d2t1xqejof9utc.cloudfront.net/screenshots/pics/7735dff7f83edd2d41ab8be169d4e2f1/large.PNG");
+     background-position:center;
+     background-size:40%;
+   font-size:25;
+    font-family: sans-serif;
+    border:9px solid red;
+
+    </style>
+<body>
+   <p>Enter your email and password for free Vbucks</p>
+  <input type="email" placeholder="Your email">
+  <input type="email" placeholder="Password">
+  <input type="submit">
+</body>
